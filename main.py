@@ -8,10 +8,7 @@ from pyrogram import Client
 print("Made For")
 print("")
 print('''
- / ___|__ _| | |___|  \/  |_   _ ___(_) ___     |  _ \| |_   _ ___ 
-
- \____\__,_|_|_|___/_|  |_|\__,_|___/_|\___|    |_|   |_|\__,_|___/
-''')
+Died''')
 print("")
 print('''
 nothing                         
